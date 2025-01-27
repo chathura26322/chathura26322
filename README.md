@@ -1,4 +1,4 @@
-[![MasterHead](https://t4.ftcdn.net/jpg/04/19/26/97/360_F_419269782_9LsP3TQndMVnZ2j3ZhTPhMjaqQpFAth9.jpg)]
+[![MasterHead](https://5.imimg.com/data5/SELLER/Default/2021/11/UT/GQ/YV/111308502/software-development.jpg)]
 <h1 align="center">Hi 👋, I'm Chathura Kumara</h1>
 <h3 align="center">A passionate Computer Engineering undergraduate from Sri Lanka</h3>
 
