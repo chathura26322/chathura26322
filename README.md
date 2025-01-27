@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Socket Programming**
 
-- 💬 Ask me about **C,C++,XML,JS,Java,C#,Python, neo4J,MongoDB,MySql**
+- 💬 Ask me about **C,C++,XML,JS,Java,C#,Python, neo4J,MongoDB,MySql,PostgreSQL**
 
 - 📫 How to reach me **chathura26322@gmail.com**
 
