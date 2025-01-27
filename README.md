@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/ad28cab36fa44e2f77a63970bcbb06660efdd314ed9168ec140d7b222dc2ae9e/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e676966)](https://rishavchanda.io)
+[![MasterHead](https://t4.ftcdn.net/jpg/04/19/26/97/360_F_419269782_9LsP3TQndMVnZ2j3ZhTPhMjaqQpFAth9.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Chathura Kumara</h1>
 <h3 align="center">A passionate Computer Engineering undergraduate from Sri Lanka</h3>
 
