@@ -1,4 +1,4 @@
-![MasterHead](https://5.imimg.com/data5/SELLER/Default/2021/11/UT/GQ/YV/111308502/software-development.jpg)
+![MasterHead](https://www.ivaninfotech.co.uk/images/softwareservices/softwareservices-banner.jpg)
 <h1 align="center">Hi 👋, I'm Chathura Kumara</h1>
 <h3 align="center">A passionate Computer Engineering undergraduate from Sri Lanka</h3>
 
