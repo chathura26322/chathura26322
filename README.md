@@ -6,13 +6,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chathura26322&label=Profile%20views&color=0e75b6&style=flat" alt="chathura26322" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Socket Programming**
 
 - 💬 Ask me about **C,C++,XML,JS,Java,C#,Python, neo4J,MongoDB,MySql**
 
 - 📫 How to reach me **chathura26322@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
