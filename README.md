@@ -50,3 +50,13 @@
 </picture>
 
 ###
+
+<h2 align="center">🎮 Play Pac-Man</h2>
+
+<div align="center">
+  <a href="https://pacman-js.vercel.app/" target="_blank">
+    <img src="https://raw.githubusercontent.com/mayankchaudhary26/pacman-game/main/pacman.gif" alt="Pac-Man Game" width="400" />
+  </a>
+  <br />
+  <sub>Click the image to play Pac-Man 🟡👻</sub>
+</div>
