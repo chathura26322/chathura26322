@@ -58,14 +58,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chathura26322&show_icons=true&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
----
-
-### 🎮 Fun Zone – Pac-Man Contributions
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/pacman-contribution-graph.svg">
-    <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/chathura26322/chathura26322/output/pacman-contribution-graph.svg">
-  </picture>
-  <p><i>Generated with <a href="https://abozanona.github.io/pacman-contribution-graph/">abozanona/pacman-contribution-graph</a></i></p>
-</div>
